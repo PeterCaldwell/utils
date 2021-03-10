@@ -1,0 +1,1 @@
+This python code converts E3SM-style netcdf output files into .bgeo format for ingestion by Houdini. The tools that actually do that work are in nc2bgeo.py. run_nc2bgeo.py provides a specific use case of these tools.
